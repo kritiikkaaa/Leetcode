@@ -36,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kritiikkaaa/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Database
+|  |
+| ------- |
+| [1164-product-price-at-a-given-date](https://github.com/kritiikkaaa/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 <!---LeetCode Topics End-->
