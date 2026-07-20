@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1164-product-price-at-a-given-date](https://github.com/kritiikkaaa/Leetcode/tree/master/1164-product-price-at-a-given-date) |
+| [1907-count-salary-categories](https://github.com/kritiikkaaa/Leetcode/tree/master/1907-count-salary-categories) |
 ## Simulation
 |  |
 | ------- |
